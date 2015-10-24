@@ -1,0 +1,40 @@
+
+.header {
+    border-bottom: 1px solid #e6e7e8;
+}
+
+.logo {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+    .svg-logo {
+        width: 100%;
+    }
+
+.inner-nav {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+    a, a:visited, a:hover {
+        font-size: 16px;
+        font-family: "Courier New", monospace;
+        color: #58595b;
+        text-decoration: none;
+    }
+
+
+.photo-wrapper {
+    margin-bottom: 40px;
+}
+
+.photo-wrapper .col-xs-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.photo {
+    width: 100%;
+}
