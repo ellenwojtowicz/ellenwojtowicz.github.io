@@ -26,6 +26,18 @@
     }
 
 
+.project {
+    height: 22.5rem;
+    margin-bottom: 1.875rem;
+}
+
+    .project-img {
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position-x: center;
+    }
+
 .photo-wrapper {
     margin-bottom: 40px;
 }
