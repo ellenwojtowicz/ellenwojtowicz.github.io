@@ -1,6 +1,22 @@
 
+
+@media (min-width: 970px) {
+    .row {
+        max-width: 970px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 .header {
-    border-bottom: 1px solid #e6e7e8;
+    padding-top: 100px;
+}
+
+.header-border {
+    height: 1px;
+    width: 10000px;
+    margin-left: -100px;
+    background-color: #e6e7e8;
 }
 
 .logo {
@@ -15,7 +31,6 @@
 .inner-nav {
     margin-top: 25px;
     margin-bottom: 25px;
-    text-align: center;
 }
 
     a, a:visited, a:hover {
